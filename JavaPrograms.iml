@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Arabic to Roman GUI/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cash Register/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maze Traversal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number Guessing Game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RBS Banking Application/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
